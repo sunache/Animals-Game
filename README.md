@@ -4,7 +4,7 @@ Animals Game is built using HTML, CSS & jQuery!
 
 You may play the game here...
 
-https://sunache.github.io/week-4-game/
+https://sunache.github.io/Animals-Game/
 
 
 # What is it about?
